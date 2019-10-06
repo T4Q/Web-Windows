@@ -1,0 +1,75 @@
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\ApplicationInsights.config
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\csc.exe
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\System.Collections.Immutable.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\System.Reflection.Metadata.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\vbc.exe
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\VBCSCompiler.exe
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\roslyn\VBCSCompiler.exe.config
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\cardrec.dll.config
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\cardrec.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\cardrec.pdb
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.Agent.Intercept.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.DependencyCollector.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.Web.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.WindowsServer.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.ApplicationInsights.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.DependencyCollector.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.Web.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.AI.WindowsServer.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.ApplicationInsights.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\obj\Debug\cardrec.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\obj\Debug\cardrec.pdb
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\System.Web.Http.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\System.Net.Http.Formatting.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\Newtonsoft.Json.dll
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\System.Web.Http.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\bin\System.Net.Http.Formatting.xml
+E:\JJH\Projects\Yasin Patel\Web\asp-cardrec\cardrec\obj\Debug\cardrec.csprojResolveAssemblyReference.cache
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\ApplicationInsights.config
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\csc.exe
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\System.Collections.Immutable.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\System.Reflection.Metadata.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\vbc.exe
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\VBCSCompiler.exe
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\roslyn\VBCSCompiler.exe.config
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\cardrec.dll.config
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\cardrec.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\cardrec.pdb
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.Agent.Intercept.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.DependencyCollector.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.Web.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.WindowsServer.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.ApplicationInsights.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\System.Web.Http.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\System.Net.Http.Formatting.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.DependencyCollector.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.Web.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.AI.WindowsServer.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.ApplicationInsights.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\System.Web.Http.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\bin\System.Net.Http.Formatting.xml
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\obj\Debug\cardrec.csprojResolveAssemblyReference.cache
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\obj\Debug\cardrec.dll
+E:\JJH\Projects\Yasin\Card_prj\Web\asp-cardrec\x86\cardrec\obj\Debug\cardrec.pdb
