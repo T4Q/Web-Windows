@@ -51,6 +51,18 @@
         float[] pFeature1 = null;
         float[] pFeature2 = null;
 
+        string license = HttpContext.Current.Server.MapPath("~/db/accuraface.license");
+
+        if (!System.IO.File.Exists(license))
+        {
+            Response.Write("<text>Could not find file './db/accuraface.license' <br /> License Key Missing</text>");
+            return;
+        }
+        System.IO.Stream license_is = OpenFile(license);
+        byte[] bylicense = new byte[license_is.Length];
+        license_is.Read(bylicense, 0, (int)license_is.Length);
+        license_is.Close();
+
         int aaa = InitEngine();
         if (bmp1 != null)
         {
